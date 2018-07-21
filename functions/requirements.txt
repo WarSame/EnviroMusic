@@ -1,0 +1,6 @@
+# Function dependencies, for example:
+# package>=version
+requests==2.3.0
+six==1.10.0
+spotipy>=2.0.0
+pycloudfn==0.1.205
